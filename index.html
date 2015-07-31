@@ -5,6 +5,15 @@ layout: default
 <div class="home">
 
   <div class="posts">
+      <div class="post py3">
+        <h3 class="h1 post-title">Mike P Land - Independent Software Developer</h3>
+        <p class="post-summary">
+            Web & Mobile | JavaScript & Swift
+        </p>
+      </div>
+  </div>
+
+  <div class="posts">
     {% for post in paginator.posts %}
       <div class="post py3">
         <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
