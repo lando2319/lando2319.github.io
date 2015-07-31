@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Mike P Land - Independent Software Developer
+email:       mikepland@gmail.com
+author:      Mike P Land
+description: "Web & Mobile | Javascript & Swift"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://lando2319.github.io/"
 
 # Google analytics
 google_analytics:
@@ -20,13 +20,13 @@ show_social_icons:  false
 disqus_shortname:
 
 # Social icons
-github_username:
+github_username: lando2319
 stackoverflow_id:
-twitter_username:
+twitter_username: mikepland
 google_plus_id:
 linkedin_username:
 angellist_username:
-medium_id:
+medium_id: mikepland
 bitcoin_url:
 paypal_url:
 flattr_button:
