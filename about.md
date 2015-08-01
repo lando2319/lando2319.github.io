@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sometimes I Tweet...
+title: sometimes I tweet...
 permalink: /sometimes-I-tweet/
 ---
 
