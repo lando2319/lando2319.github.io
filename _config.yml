@@ -7,13 +7,13 @@ baseurl:     ""
 url:         "http://mikepland.com"
 
 # Google analytics
-google_analytics:
+google_analytics: UA-13302760-2
 
 # Optional features
 animated:           false
-show_related_posts: false
+show_related_posts: true
 show_post_footers:  false
-show_social_icons:  false
+show_social_icons:  true
 
 # Disqus post comments
 # (leave blank to disable Disqus)
@@ -32,7 +32,7 @@ paypal_url:
 flattr_button:
 
 # Post sharing icons
-show_sharing_icons: false
+show_sharing_icons: true
 share_text: 'Share this post!'
 # Change to 'true' to enable individual icons
 share_facebook: true
