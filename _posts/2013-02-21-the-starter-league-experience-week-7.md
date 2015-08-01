@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      The Starter League Experience - Week 7
-date:       2013-02-01 11:21:29
+date:       2013-02-21 11:21:29
 summary:    Last weekend we had our first Builder's Weekend at The Starter League. As Arvin made clear
 categories: The-Starter-League bootcamp
 ---

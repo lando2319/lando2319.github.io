@@ -17,20 +17,20 @@ Intrigued? Wait till you hear the benefits...
 
 ### Benefits of using Google Voice vs a traditional cell phone number
 
-  * Google Voice’s Online Interface: Being able to send and receive text messages through the Google Voice interface has been a huge improvement from the traditional iPhone interface. Not to mention the long 
+  * __Google Voice’s Online Interface:__ Being able to send and receive text messages through the Google Voice interface has been a huge improvement from the traditional iPhone interface. Not to mention the long 
 [list of keyboard shortcuts available](https://support.google.com/voice/answer/117493?hl=en)
 ; if you can master these, you will enter a world of fierce productivity you never thought possible.
-  * Forwarding: With Google Voice, you can easily forward your phone calls. This is handy for people who want to port their number to Google, but don’t want to totally leave their service provider. They can just forward their Google Voice number to their cell number.
-  * Accessibility: Normally, if you want to make a call with your primary number as the outgoing number, you can only do so from your phone. Since your Google Voice number is accessible from the internet, you can make calls from ANY online computer or app-ready mobile device. This is huge, because now your phone is just accessing your number, rather than being the domain your number is tied to (this is the part people have trouble conceptualizing).
-  * Record Keeping: Personally, I'd much rather have my calls and text messages stored on Google’s servers than just have them sitting on phone.
-  * Archiving: One of the things that annoyed me about the iPhone's stock Message app is that there's no way to keep text messages marked as ‘unread’. Since the Google Voice app allows for easy archiving, I can always see the text messages that need attention.
+  * __Forwarding:__ With Google Voice, you can easily forward your phone calls. This is handy for people who want to port their number to Google, but don’t want to totally leave their service provider. They can just forward their Google Voice number to their cell number.
+  * __Accessibility:__ Normally, if you want to make a call with your primary number as the outgoing number, you can only do so from your phone. Since your Google Voice number is accessible from the internet, you can make calls from ANY online computer or app-ready mobile device. This is huge, because now your phone is just accessing your number, rather than being the domain your number is tied to (this is the part people have trouble conceptualizing).
+  * __Record Keeping:__ Personally, I'd much rather have my calls and text messages stored on Google’s servers than just have them sitting on phone.
+  * __Archiving:__ One of the things that annoyed me about the iPhone's stock Message app is that there's no way to keep text messages marked as ‘unread’. Since the Google Voice app allows for easy archiving, I can always see the text messages that need attention.
 
 ### The downsides
 
 Well it couldn't be ALL rainbows and butterflies, could it?
 
-  * No MMS: Google Voice does not support MMS messages. My solution is to just tell people to email me multimedia instead. I know it's not ideal, but for me personally this isn't a deal breaker.
-  * Less Integration with Native iPhone Apps: For instance, I can no longer call a number through the Spotlight search. I have to go through Talkatone (a third-party app).
+  * __No MMS:__ Google Voice does not support MMS messages. My solution is to just tell people to email me multimedia instead. I know it's not ideal, but for me personally this isn't a deal breaker.
+  * __Less Integration with Native iPhone Apps:__ For instance, I can no longer call a number through the Spotlight search. I have to go through Talkatone (a third-party app).
 
 ### How I Made The Switch
 
