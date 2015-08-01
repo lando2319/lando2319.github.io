@@ -6,7 +6,7 @@ summary:    Recently I finally took the plunge and dropped my cell phone provide
 categories: Google Technology
 ---
 
-### UPDATE July 31, 2015 Most of what is discribed in this post is no longer true, Google Voice got more or less rolled into Hangouts. If you are interested getting a Cloud Number I would recommend checking out [Google Fi](https://fi.google.com/signup). Also [Republic Wireless](https://republicwireless.com/) is a good option.
+### UPDATE July 31, 2015 Most of what is discribed in this post is no longer true, Google Voice got more or less rolled into Hangouts. Current services to checkout: [Google Fi](https://fi.google.com/signup) and [Republic Wireless](https://republicwireless.com/).
 
 Recently I finally took the plunge and dropped my cell phone provider. I was tired of paying AT&T over $100 a month, and thinking there was a better way... I ported my number over to Google, made my phone WiFi-only, now my cell phone bill is ZERO.
 
