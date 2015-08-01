@@ -1,8 +1,9 @@
 ---
 layout:     post
-title:      The Starter League Experience - Week 4
-date:       2013-02-01 11:21:29
+title:      The Starter League Experience - Week 5
+date:       2013-02-08 11:21:29
 summary:    busy coding...
+summary:    Today I am completing week 5 in The Starter League Web Development class. One thing 
 categories: The-Starter-League bootcamp
 ---
 
