@@ -26,6 +26,7 @@ returns status_quo
 end
 
 I == excited
+{% endhighlight %}
 
 > mikeland$ ruby if_coding.rb
 > if_coding.rb:1:in `<main>': undefined local variable or method `coding’ for main:Object (NameError)
