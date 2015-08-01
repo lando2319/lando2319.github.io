@@ -2,7 +2,7 @@
 layout:     post
 title:      Software and the Art of War
 date:       2015-03-03 11:21:29
-summary:    "All warfare is based on deception." - Sun Tzu
+summary:    “All warfare is based on deception.” - Sun Tzu
 categories: Sun-Tzu warfare
 ---
 
