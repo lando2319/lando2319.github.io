@@ -1,9 +1,9 @@
 ---
 layout:     post
 title:      Software and the Art of War
-date:       2015-07-25 11:21:29
-summary:    I love music, songs often play in my head for hours or even days. 
-categories: The-Starter-League bootcamp
+date:       2015-03-03 11:21:29
+summary:    "All warfare is based on deception." - Sun Tzu
+categories: Sun-Tzu warfare
 ---
 
 > All warfare is based on deception. Hence, when we are able to attack, we must seem unable; when using our forces, we must appear inactive; when we are near, we must make the enemy believe we are far away; when far away, we must make him believe we are near. — [The Art of War](http://en.wikipedia.org/wiki/The_Art_of_War) by Sun Tzu
