@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      The Starter League Experience: Week 1
+title:      The Starter League Experience - Week 1
 date:       2013-01-11 11:21:29
 summary:    Learning a new language is never easy… especially one that is designed 
-categories: jekyll pixyll
+categories: The-Starter-League bootcamp
 ---
 
 Learning a new language is never easy… especially one that is designed to be understood by a machine. Nevertheless here I am at The Starter League having completed my first week. So what have I learned? Well for one Ruby was written in C… who knew?…

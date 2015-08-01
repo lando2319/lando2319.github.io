@@ -3,7 +3,7 @@ layout:     post
 title:      Porting to Google Voice And Dropping My Cell Carrier
 date:       2012-09-14 11:21:29
 summary:    Recently I finally took the plunge and dropped my cell phone provider. I
-categories: jekyll pixyll
+categories: Google Technology
 ---
 
 ### UPDATE July 31, 2015 Most of what is discribed in this post is no longer true, Google Voice got more or less rolled into Hangouts. If you are interested getting a Cloud Number I would recommend checking out [Google Fi](https://fi.google.com/signup). Also [Republic Wireless](https://republicwireless.com/) is a good option.
