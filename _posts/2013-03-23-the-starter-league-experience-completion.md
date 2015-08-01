@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      The Starter League Experience - Completion
-date:       2013-03-14 11:21:29
-summary:    Websites pretty much create themselves these days, right?!? Well not really…
+date:       2013-03-23 11:21:29
+summary:    Eleven Weeks ago I began the Web Development program at The Starter League. 
 categories: The-Starter-League bootcamp
 ---
 

@@ -2,7 +2,7 @@
 layout:     post
 title:      The Starter League Experience - Week 3
 date:       2013-01-25 11:21:29
-summary:    Here I am at the end of week two of my journey to learn Ruby on Rails 
+summary:    This week at The Starter League I went back to basics... as in Ruby fundamentals. 
 categories: The-Starter-League bootcamp
 ---
 

@@ -2,7 +2,7 @@
 layout:     post
 title:      The Starter League Experience - Week 10
 date:       2013-03-14 11:21:29
-summary:    Websites pretty much create themselves these days, right?!? Well not really…
+summary:    As far as the Starter League Experience goes, we are entering into the end of the program.
 categories: The-Starter-League bootcamp
 ---
 

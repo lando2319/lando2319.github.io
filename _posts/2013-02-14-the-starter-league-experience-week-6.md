@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      The Starter League Experience - Week 6
-date:       2013-02-01 11:21:29
-summary:    busy coding...
+date:       2013-02-14 11:21:29
+summary:    Week 6 marks the halfway point in the Web Development course at The Starter League
 categories: The-Starter-League bootcamp
 ---
 
