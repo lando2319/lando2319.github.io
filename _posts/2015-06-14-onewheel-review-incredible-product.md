@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      Software and the Art of War
-date:       2015-03-03 11:21:29
+title:      Onewheel Review - Incredible Product
+date:       2015-06-14 11:21:29
 summary:    I’ve had my Onewheel over 4 months now… it truly is like snowboarding through the streets.
-categories: Sun-Tzu warfare
+categories: Onewheel product-review
 ---
 
 I’ve had my Onewheel over 4 months now… it truly is like snowboarding through the streets.
