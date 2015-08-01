@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Pixyll
-permalink: /about/
+title: Sometimes I Tweet...
+permalink: /sometimes-I-tweet/
 ---
 
 <a class="twitter-timeline" href="https://twitter.com/mikepland" data-widget-id="627367580370604033">Tweets by @mikepland</a>
