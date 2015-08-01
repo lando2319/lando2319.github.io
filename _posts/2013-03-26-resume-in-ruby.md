@@ -3,7 +3,7 @@ layout:     post
 title:      Resume in Ruby
 date:       2013-03-26 11:21:29
 summary:    Below is my updated resume, now written IN RUBY. My intention is for this resume
-categories: The-Starter-League bootcamp
+categories: resume
 ---
 
 Below is my updated resume, now written IN RUBY. My intention is for this resume to be at least readable to someone with no familiarity with code.

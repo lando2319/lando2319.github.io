@@ -3,7 +3,7 @@ layout:     post
 title:      5 Rules For Urban Onewheeling
 date:       2015-07-25 11:21:29
 summary:    “He will win who knows how to handle superior and inferior forces” — Art of War by Sun Tzu
-categories: Sun-Tzu onewheel
+categories: Sun-Tzu Onewheel
 ---
 
 > “He will win who knows how to handle superior and inferior forces” — Art of War by Sun Tzu
