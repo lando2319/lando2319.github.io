@@ -8,7 +8,9 @@ categories: Onewheel product-review
 
 I’ve had my Onewheel over 4 months now… it truly is like snowboarding through the streets.
 
-<iframe src="https://www.youtube.com/embed/ZK9MxN06LJE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<div class="videowrapper">
+    <iframe src="https://www.youtube.com/embed/ZK9MxN06LJE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div>
 
 The awesome thing about the Onewheel and the quality that pushed me to finally contribute to the original Kickstarter, was the fact that you can pick it up and hop on the train, step into a store, you’re instantly a pedestrian. It’s far more portable than a bike, and with a 12 mph top speed you can really sail through the streets. With a 4–6 mile range it works as transportation from point A to B, or just cruising around.
 

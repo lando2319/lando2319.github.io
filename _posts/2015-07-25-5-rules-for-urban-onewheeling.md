@@ -12,7 +12,9 @@ categories: Sun-Tzu Onewheel
 
 I’ve ridden my [Onewheel](http://rideonewheel.com/) over 100 miles throughout Chicago. I’ve done St. Paddy’s Day, I’ve cruised Boystown, I’ve put in countless miles within the Loop. The Onewheel is a great tool for transportation, you are neither biker nor pedestrian. You are Wheeling… It has a 4–6 mile range, 12 mph top speed, self-balancing, electric powered. Needless to say you should ride to your own ability and always wear appropriate protective gear.
 
-<iframe width="700" height="393" src="https://www.youtube.com/embed/ZK9MxN06LJE" frameborder="0" allowfullscreen></iframe>
+<div class="videowrapper">
+    <iframe width="700" height="393" src="https://www.youtube.com/embed/ZK9MxN06LJE" frameborder="0" allowfullscreen></iframe>
+</div>
 
   1. __Stay Frosty AKA Stay Alert:__ It’s easy to get comfortable on the Onewheel, but out in the field you need to be ready, always on alert. Unlike a bike where you have potentially 5 points of contact, two hand, two feet and your butt, with a Onewheel you have just two, and to a varying degree based on your stance, dips in the road are clearly felt. Be especially aware of sections of the road approaching intersections where the road is so worn in by years of traffic, it recreates a subtle wave texture, which can appear gentle. With proper awareness, avoidance of troubled areas, and a good sense of the road, this is all manageable. But dips in the road, potholes, traffic, pedestrians, they are all out there and it’s important to always staying frosty.
 
