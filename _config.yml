@@ -4,7 +4,7 @@ email:
 author:      Mike P Land 
 description: "interested in technology, economics, and livin in the future..."
 baseurl:     ""
-url:         "/"
+url:         http://mikepland.com
 
 # Google analytics
 google_analytics: UA-13302760-2
