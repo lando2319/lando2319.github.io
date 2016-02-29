@@ -4,47 +4,38 @@ layout: default
 
 <div class="home">
 
-  <div class="posts">
-      <div class="post py3">
-          <h2 class="h1 post-title">Mike P Land<br>Independent iOS Developer</h2>
-        <p class="post-summary">
+    <div class="posts">
+        <div class="post py3">
+            <h2 class="h1 post-title">Mike P Land<br>Independent iOS Developer</h2>
+            <p class="post-summary">
             <div class="page-content">
-                iOS Apps
-                <ul class="page-list">
-                    <li>
-                        <a href="http://learncrapsyo.com" class="post-link" target="_blank">Learn Craps Yo</a> - The best way to learn craps.
-                    </li>
-                    <li>
-                        <a href="http://blackjackbook.watch" class="post-link" target="_blank">Blackjack Book</a> - an app for Apple Watch designed to deliver basic strategy of Blackjack directly to your wrist.
-                    </li>
-                </ul>
-                NodeJS App
-                <ul class="page-list">
-                    <li>
-                        <a href="http://hnvimmybot.com" class="post-link" target="_blank">HN Vimmy Bot</a> - He's a friendly bot who checks <a href="https://news.ycombinator.com/" class="post-link" target="_blank">Hacker News</a> every hour for stories on <a href="https://en.wikipedia.org/wiki/Vim_(text_editor)" class="post-link" target="_blank">Vim</a>, and tweets 'em. Checkout the <a href="https://github.com/lando2319/hn_vimmy_bot" class="post-link" target="_blank">Github Repo</a>.
-                    </li>
-                </ul>
-                Are you looking for an iOS developer? <a href="/contact" class="post-link">let's talk</a>
-            </div>
-        </p>
-      </div>
-  </div>
-  <hr>
-  <div class="posts">
-    {% for post in paginator.posts %}
-      <div class="post py3">
-        <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
-        <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="h1 post-title">{{ post.title }}</h3></a>
-        <p class="post-summary">
-          {% if post.summary %}
-            {{ post.summary }}
-          {% else %}
-            {{ post.excerpt }}
-          {% endif %}
-        </p>
-      </div>
-    {% endfor %}
-  </div>
+            <p>Don’t let that great idea go to waste.</p>
 
-  {% include pagination.html %}
+            <p>An MVP, or a Minimum Viable Product, is a great way to test your idea in the market place at an affordable price.</p>
+            <p>I’m a Chicago-based independent iOS developer, who specializes in MVPs. I work with people to boil their idea down to something that can be tested amongst a group of beta testers.</p> 
+            <p>Whether you plan to ultimately secure financing or to self-finance, an MVP is a great opportunity to prove that your idea is viable. An early Beta testing round is an opportunity to collect qualitative and quantitative data on your idea.</p> 
+            <p>Free Consultation, available to meet locally in Chicago.</p> 
+            <p><a href="/contact" class="post-link">Contact</a></p>
+            </div>
+            </p>
+        </div>
+    </div>
+    <hr>
+    <div class="posts">
+        {% for post in paginator.posts %}
+        <div class="post py3">
+            <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
+            <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="h1 post-title">{{ post.title }}</h3></a>
+            <p class="post-summary">
+            {% if post.summary %}
+            {{ post.summary }}
+            {% else %}
+            {{ post.excerpt }}
+            {% endif %}
+            </p>
+        </div>
+        {% endfor %}
+    </div>
+
+    {% include pagination.html %}
 </div>
