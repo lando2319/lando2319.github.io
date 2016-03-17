@@ -20,5 +20,5 @@ An MVP is a great way to test the market viability of your product, it’s far m
 
 *I make MVPs, Independent iOS developer, influenced by [The Lean Startup](https://en.wikipedia.org/wiki/Lean_startup)*
 
-*[Contact me](../contact/) for free consultations*
+*[Contact me](http://mikepland.com/contact/) for free consultations*
 
