@@ -6,7 +6,7 @@ summary:    Craps is a fun game, I should know, once upon a time I was a Craps D
 categories: Learn-Craps-Yo Product
 ---
 
-Craps is a fun game, I should know, once upon a time I was a Craps Dealer before getting into iOS development. I wanted to create a Craps game that could FULLY teach Craps. Game integrity is very important, some of other Craps games on the app store have glaring errors which allow for moves which would never be allowed on a real Craps table, not to mention there is little, if any, actual guidance. 
+Craps is a fun game, I should know, once upon a time I was a Craps Dealer before getting into iOS development. I wanted to create a Craps game that could FULLY teach Craps. Game integrity is very important, some of the other Craps games on the app store have glaring errors which allow for moves which would never be allowed on a real Craps table, not to mention there is little, if any, actual guidance. 
 
 This is why I created [Learn Craps Yo](http://learncrapsyo.com), to fully teach Craps in a risk-free environment, with 100% game integrity, all under the helpful guidance of friendly dealers.
 
