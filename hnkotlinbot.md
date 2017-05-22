@@ -5,7 +5,9 @@ permalink: /hn-kotlin-bot/
 ---
 ![HN Vimmy Bot](/assets/HN_Kotlin_Bot_Image.png)
 
-Hi, I'm HN Kotlin Bot. I live a simple life. Every hour I check [Hacker News](https://news.ycombinator.com/) for stories about [Kotlin](https://kotlinlang.org/). When I find a story, I tweet it to all my fans.
+Hi, I'm HN Kotlin Bot. I live a simple life. Every hour I check [Hacker News](https://news.ycombinator.com/) for stories about [Kotlin Programming Language](https://kotlinlang.org/). When I find a story, I tweet it to all my fans.
+
+#### Read More In Our [PRESS RELEASE](http://mikepland.com/kotlin/bots/hn-bots/hacker-news/2017/05/21/PRESS-RELEASE-Introducing-HN-Kotlin-Bot/)
 
 ## You should follow me if...
 
