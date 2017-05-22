@@ -6,15 +6,18 @@ summary:    HN Kotlin Bot is the newest addition to the HN Bot family, He's a fr
 categories: Kotlin Bots HN-Bots Hacker-News
 ---
 
-Today we are pleased to announce that due to significant demand we are adding a NEW BOT to the HN Bot family. This is our second Bot here at HN Bot Industries, our original bot, [HN Vimmy Bot](https://www.twitter.com/hn_vimmy_bot), in just one year has grown to become a staple in many people’s twitter feed. We are looking to bring that same magic with our new bot.
+Today we are pleased to announce that due to significant demand we are adding a **NEW BOT** to the HN Bot family. This is our second Bot here at HN Bot Industries, our original bot, [HN Vimmy Bot](https://www.twitter.com/hn_vimmy_bot), in just one year, has grown to become a beloved addition to twitter feeds all over the world. We are looking to bring that same magic with our new bot.
 
-Many of you are familiar with [Kotlin](https://kotlinlang.org/), while others may be hearing about it for the first time. We at HN Bot Industries have seen increased buzz around Kotlin. Over the past 6 months Hacker News has been filled with active discussion threads around the Kotlin Programming Language. Thanks to the hard work of our technical and design crew, we are rolling out our newest bot ahead of schedule.
+Many of you are familiar with Kotlin, while others may be hearing about it for the first time. We at HN Bot Industries have seen increased buzz around Kotlin. Over the past 6 months Hacker News has been filled with active discussion threads around the [Kotlin Programming Language](https://kotlinlang.org/). Thanks to the hard work of our technical and design crew, we are rolling out our newest bot ahead of schedule.
 
 We give you...
 
 # HN Kotlin Bot
 
-As you can see, our design crew kept the wildly popular format of the story and discussion link together in the same tweet. While seen as controversial by some, we have adopted this format as a means to bring you the hardest hitting Tweets available. Many say it’s thanks to our efforts that this format has become so powerful. After all this format has shown to increase a tweet’s potency ten fold... and we’ve been using it for a year, let that sink in.
+<blockquote class="twitter-tweet" data-lang="en"><p lang="et" dir="ltr">Kotlin Programming Language<br>💬 <a href="https://t.co/MPUye3OKID">https://t.co/MPUye3OKID</a><br>🔗 <a href="https://t.co/th0Ymwomri">https://t.co/th0Ymwomri</a><a href="https://twitter.com/hashtag/HackerNews?src=hash">#HackerNews</a> <a href="https://twitter.com/hashtag/Kotlin?src=hash">#Kotlin</a></p>&mdash; HN Kotlin Bot (@HN_Kotlin_Bot) <a href="https://twitter.com/HN_Kotlin_Bot/status/866491686561751040">May 22, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+As you can see, our design crew kept the wildly popular format of the story and discussion link together in the same tweet. While seen as controversial by some, we have adopted this format as a means to bring you the **hardest hitting** Tweets available. Many say it’s thanks to our efforts that this format has become so powerful. After all this format has shown to increase a tweet’s potency ten fold... and we’ve been using it for a year, let that sink in.
 
 Since 2016 HN Bot Industries had been bringing you the latest in HN Bot Technology.
 
