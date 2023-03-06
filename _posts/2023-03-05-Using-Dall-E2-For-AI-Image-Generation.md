@@ -8,7 +8,7 @@ categories: Dall-e Short-Story Hacker-News
 
 ## Introduction
 
-"Why I Quit Being So Accomodating" is a Short Story I found on [Hacker News](https://www.ycombinator.com). The story is excellent, and with linkrot being what it is, I wanted to print it out to make sure I had it forever. So I printed it out, then as I sat in my chair and looked up at the end of my bookshelf, seeing a handful of printed sheets of computer paper, I thought to myself, "I can do better".
+"Why I Quit Being So Accomodating" is a Short Story I found on [Hacker News](https://news.ycombinator.com). The story is excellent, and with linkrot being what it is, I wanted to print it out to make sure I had it forever. So I printed it out, then as I sat in my chair and looked up at the end of my bookshelf, seeing a handful of printed sheets of computer paper, I thought to myself, "I can do better".
 
 
 ![bookshelf-paper](/assets/bookshelf-paper.jpg){: style="max-width: 250px;"}
