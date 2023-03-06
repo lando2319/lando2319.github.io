@@ -19,7 +19,7 @@ Then I got the idea to print it out into a nice custom printed book. Something t
 
 After recently building a Craps AI using ChatGPT, I thought to myself, "well maybe I should generate some illustration with DALL-E2", this would go great with the story.
 
-The main tool I used was the labs [DALL-E editor](https://labs.openai.com/editor) by openAI. 
+The main tool I used was the labs [DALL-E editor](https://labs.openai.com) by openAI. 
 
 The Story first appeared in [The American Magazine April 1922](https://www.google.com/books/edition/_/kstZAAAAYAAJ?hl=en&gbpv=0) no author is listed. The blog post where I saw the story is [Here](https://mikecanex.wordpress.com/2012/12/26/1922-why-i-quit-being-so-accommodating/).
 
