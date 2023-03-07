@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Why I Quit Being So Accomodating (With Dall-e Illustrations)
+title:      Why I Quit Being So Accommodating (With Dall-e Illustrations)
 date:       2023-03-04 08:19:54
 summary:    This is a short story from 1922 with added illustrations in 2023 using Dall-e, an AI Image Generator
 categories: Dall-e Short-Story Hacker-News
@@ -8,7 +8,7 @@ categories: Dall-e Short-Story Hacker-News
 
 ## Introduction
 
-"Why I Quit Being So Accomodating" is a Short Story I found on [Hacker News](https://news.ycombinator.com). The story is excellent, and with linkrot being what it is, I wanted to print it out to make sure I had it forever. So I printed it out, then as I sat in my chair and looked up at the end of my bookshelf, seeing a handful of printed sheets of computer paper, I thought to myself, "I can do better".
+"Why I Quit Being So Accommodating" is a Short Story I found on [Hacker News](https://news.ycombinator.com). The story is excellent, and with linkrot being what it is, I wanted to print it out to make sure I had it forever. So I printed it out, then as I sat in my chair and looked up at the end of my bookshelf, seeing a handful of printed sheets of computer paper, I thought to myself, "I can do better".
 
 
 ![bookshelf-paper](/assets/bookshelf-paper.jpg){: style="max-width: 250px;"}
@@ -35,7 +35,7 @@ Below is the story along with the AI Generated Images
 
 -----
 
-# Why I Quit Being So Accomodating
+# Why I Quit Being So Accommodating
 
 
 ![Dall-e2 Query: hatching style, traveling saleman, tired](/assets/salesman.png)
