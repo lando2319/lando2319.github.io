@@ -25,13 +25,27 @@ Below is my own Weather Window running on [Waveshare E-Paper Monitor](https://ww
 
 ![cloudy-dingzhou-china](/assets/WeatherWindow/cloudy-dingzhou-china.jpg)
 
-![rain-changzhou-china](/assets/WeatherWindow/rain-changzhou-china.jpg)
-
 ![rain-quanzhou-china](/assets/WeatherWindow/rain-quanzhou-china.jpg)
 
-<a href="https://twitter.com/WeatherWindowAI" data-size="large" class="twitter-follow-button" data-show-count="false">Follow @WeatherWindowAI</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+The Weather Window code [on github](https://github.com/lando2319/WeatherWindow) will randomly select a city
 
-[Code on Github](https://github.com/lando2319/WeatherWindow)
+> Dingzhou China
+
+Then query for the current weather in that city
+
+> Rain Weather
+
+Then generate an OpenAI Image based on the current weather of the city
+
+> "Rain Weather in Changzhou China"
+
+From there the image is put into an html page for showing on my E-Paper Device
+
+![rain-changzhou-china](/assets/WeatherWindow/rain-changzhou-china.jpg)
+
+The Image is then saved and tweeted out to all the fans
+
+<a href="https://twitter.com/WeatherWindowAI" data-size="large" class="twitter-follow-button" data-show-count="false">Follow @WeatherWindowAI</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <a class="github-button" href="https://github.com/buttons/github-buttons" data-icon="octicon-star" data-size="large" aria-label="Star buttons/github-buttons on GitHub">Star</a>
 
