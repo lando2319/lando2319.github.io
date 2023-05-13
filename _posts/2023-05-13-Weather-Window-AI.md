@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Weather Window AI
-date:       2023-05-13 07:24:03
+date:       2023-05-13 04:24:03
 summary:    A.I. Generated Photo Of Current Weather In A Random City
 categories: portfolio Dall-E
 ---
