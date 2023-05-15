@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      I Posted My App On Hacker News It Recieved 4 Points, Here's What Happened
+title:      I Posted My App On Hacker News It Received 4 Points, Here's What Happened
 date:       2023-05-14 12:24:03
-summary:    I Posted My App On Hacker News It Recieved 4 Points, Here's What Happened
+summary:    I Posted My App On Hacker News It Received 4 Points, Here's What Happened
 categories: portfolio Dall-E
 ---
 
